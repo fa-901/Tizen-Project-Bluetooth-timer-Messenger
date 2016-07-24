@@ -1,4 +1,4 @@
-# Tizen-Project---Wifi-timer
+# [North South University] Tizen-Project---Wifi-timer
 This is a project done by Group 5 from North South University in collaboration with Samsung. The app basically turns on wi-fi at a specified time and performs other actions
 
 Group members:

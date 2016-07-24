@@ -1,0 +1,9 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+
+edctool = edje_cc
+edcflags = -id "C:/Users/Sub Zero/Desktop/Scheduler_NEW/edje/images" -id "E:/tizen-sdk/tools/enventor/share/enventor/images" -sd "C:/Users/Sub Zero/Desktop/Scheduler_NEW/edje/sounds" -sd "E:/tizen-sdk/tools/enventor/share/enventor/sounds" -fd "C:/Users/Sub Zero/Desktop/Scheduler_NEW/edje/fonts" -fd "E:/tizen-sdk/tools/enventor/share/enventor/fonts"
+
+build res/edje/scheduler.edj: build_edc ../res/edje/scheduler.edc 

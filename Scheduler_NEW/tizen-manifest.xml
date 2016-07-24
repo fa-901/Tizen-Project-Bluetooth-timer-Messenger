@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<manifest xmlns="http://tizen.org/ns/packages" api-version="2.4" package="org.example.scheduler_new" version="1.1">
+    <profile name="mobile"/>
+    <ui-application appid="org.example.scheduler_new" exec="scheduler_new" multiple="false" nodisplay="false" taskmanage="true" type="capp">
+        <label>scheduler_new</label>
+        <icon>scheduler_new.png</icon>
+    </ui-application>
+    <privileges>
+        <privilege>http://tizen.org/privilege/calendar.write</privilege>
+        <privilege>http://tizen.org/privilege/calendar.read</privilege>
+        <privilege>http://tizen.org/privilege/alarm.get</privilege>
+        <privilege>http://tizen.org/privilege/notification</privilege>
+        <privilege>http://tizen.org/privilege/alarm.set</privilege>
+    </privileges>
+</manifest>

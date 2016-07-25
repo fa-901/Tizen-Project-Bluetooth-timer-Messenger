@@ -1,0 +1,11 @@
+APPNAME = newbasicui
+
+type = app
+profile = mobile-2.3
+
+USER_SRCS = src/newbasicui.c
+USER_DEFS =
+USER_INC_DIRS = inc
+USER_OBJS =
+USER_LIBS =
+USER_EDCS =

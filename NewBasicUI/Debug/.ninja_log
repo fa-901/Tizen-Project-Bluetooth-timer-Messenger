@@ -1,0 +1,10 @@
+# ninja log v5
+5	3591	0	src/newbasicui.o	9a2c654c58da723c
+3592	8792	0	newbasicui	4e6e1f632fde636c
+0	23	0	clean_sa	6763a52a0b4df2b6
+23	36	0	clean	d59b6dac04fa9b5d
+0	6068	0	src/newbasicui.o.txt	f8d625e86913a0f0
+6069	6196	0	apichecker	56ccc35e70df5b1b
+12	1162	0	src/newbasicui.o	4a8e2170f833d0dc
+1169	2123	0	newbasicui	6c82453360714e45
+6	687	0	newbasicui	6c82453360714e45
